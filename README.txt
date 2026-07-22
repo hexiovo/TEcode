@@ -1,2 +1,3 @@
 本包仅用于备份信息，数据相当杂乱，仅作参考，机器学习部分延申为PYMLpack，画图部分可以仿照
 如有问题请联系彭洋：py_edu_mail@163.com
+如果需要，可以引用Peng, Y., Bai, H., Ga, R. et al. Attentional characteristics and learning mode recognition of different learning patterns in video-based learning. Educ Inf Technol (2026). https://doi.org/10.1007/s10639-026-14084-z
